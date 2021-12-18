@@ -1,0 +1,5 @@
+the ip-address is what you name the img and the Contaniers
+
+
+docker build --tag ip-address .
+docker run --publish 8000:8000 ip-address
